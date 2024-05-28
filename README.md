@@ -20,7 +20,7 @@ Penjelasan :
 • Membuat Laporan : Administrator generate laporan kehadiran, perkembangan anak, dan keuangan.
 
 # CLASS DIAGRAM
-
+![Classdiagram DayCare drawio](https://github.com/momocipaw/APBO_SI_DAYCARE/assets/167399698/5fe1b491-4121-46af-93fd-49c599a44e4a)
 
 # ERD (Entity Relationship Diagram)
 ![ERDdaycare](https://github.com/momocipaw/APBO_SI_DAYCARE/assets/167399698/a9eb155c-4117-4590-a724-6b3799c0833b)
