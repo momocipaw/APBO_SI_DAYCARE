@@ -4,14 +4,10 @@ APBO_SI_Daycare
 ![Usecasedaycare2 drawio (1)](https://github.com/momocipaw/APBO_SI_DAYCARE/assets/167399698/82cedf3f-991b-468f-be49-884e56736bf5)
 
 Penjelasan : 
-1. Anak
-   Anak adalah penerima utama layanan daycare. Meskipun anak tidak berinteraksi langsung dengan sistem, data dan aktivitas mereka di daycare dicatat dan diolah dalam sistem.
-2. Orang Tua
-   Peran: Orang tua atau wali mendaftarkan anak mereka ke daycare, mengakses laporan perkembangan anak, dan menerima informasi terkait anak mereka dari staf daycare.
-3. Staff
-      Staf daycare bertanggung jawab atas pengawasan dan perawatan anak-anak, mencatat kehadiran, dan mengelola aktivitas harian anak.
-4. Administrator
-   Admin sistem bertanggung jawab atas pengelolaan dan pemeliharaan sistem informasi daycare, termasuk manajemen data pengguna (anak, orang tua/wali, staf), serta memastikan sistem berjalan dengan lancar dan aman.
+1. Anak adalah penerima utama layanan daycare. Meskipun anak tidak berinteraksi langsung dengan sistem, data dan aktivitas mereka di daycare dicatat dan diolah dalam sistem.
+2. Orang tua atau wali mendaftarkan anak mereka ke daycare, mengakses laporan perkembangan anak, dan menerima informasi terkait anak mereka dari staf daycare.
+3. Staff daycare bertanggung jawab atas pengawasan dan perawatan anak-anak, mencatat kehadiran, dan mengelola aktivitas harian anak.
+4. Administrator bertanggung jawab atas pengelolaan dan pemeliharaan sistem informasi daycare, termasuk manajemen data pengguna (anak, orang tua/wali, staf), serta memastikan sistem berjalan dengan lancar dan aman.
    
 # CLASS DIAGRAM
 ![Classdiagram DayCare drawio](https://github.com/momocipaw/APBO_SI_DAYCARE/assets/167399698/5fe1b491-4121-46af-93fd-49c599a44e4a)
