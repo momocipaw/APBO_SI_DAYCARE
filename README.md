@@ -32,17 +32,4 @@ Staf - Anak: Staf daycare mengelola aktivitas, kehadiran, dan perkembangan anak 
 Admin Sistem - Staf, Orang Tua, Anak: Admin sistem mengelola data pengguna termasuk staf, orang tua, dan anak (many to many).
 
 # ERD (Entity Relationship Diagram)
-![ERDdaycare](https://github.com/momocipaw/APBO_SI_DAYCARE/assets/167399698/a9eb155c-4117-4590-a724-6b3799c0833b)
-• Orang Tua > Anak (One(1) to Many(M)) : Seorang orang tua dapat memiliki banyak anak.
-
-• Anak > Kehadiran (One(1) To many(M)) : Seorang anak dapat menghadiri semua jadwal.
-
-• Staf > Jadwal (One(1) To Many(M)) : Seorang staff memiliki banyak jadwal.
-
-• Orang Tua > Pembayaran (One(1) To One(1)) : Seorang orang tua dapat melakukan sekali pembayaran
-
-• Pembayaran > Administrator(Many(M) to One(1)) : Banyak Pembayaran dapat diproses oleh satu administrator
-
-• Administrator > Laporan (One To Many(1)) : Seorang administrator dapat mengolah banyak data.
-
-• Jadwal > Kehadiran : Sebuah Jadwal Memiliki banyak catatan Kehadiran
+![ERD2](https://github.com/momocipaw/APBO_SI_DAYCARE/assets/167399698/5c6a39d0-038d-451b-b4bf-bbaf3abed328)
