@@ -13,6 +13,7 @@ Penjelasan :
 ![classD drawio](https://github.com/momocipaw/APBO_SI_DAYCARE/assets/167399698/03f227d2-f3ee-4930-9e60-671e9009d7da)
 
 Hubungan Antar Kelas
+
 Orang Tua - Anak: Seorang orang tua/wali dapat memiliki satu atau lebih anak (1 to many).
 
 Anak - Kehadiran: Setiap anak memiliki catatan kehadiran setiap hari (1 to many).
