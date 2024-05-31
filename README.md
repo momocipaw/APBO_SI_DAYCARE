@@ -1,7 +1,7 @@
 # APBO_SI_DAYCARE
 APBO_SI_Daycare
 # USE CASE DIAGRAM
-![Usecasedaycare2 drawio](https://github.com/momocipaw/APBO_SI_DAYCARE/assets/167399698/37c3c748-aed5-4780-8e96-dba9acdc74a4)
+![Usecasedaycare2 drawio](https://github.com/momocipaw/APBO_SI_DAYCARE/assets/167399698/60154931-78c7-46f3-9972-bcbfc27f5698)
 Penjelasan : 
 
 • Mendaftarkan anak : Orang tua mengisi formulir pendaftaran, staff memverifikasi data, anak terdaftar di sistem.
