@@ -1,23 +1,18 @@
 # APBO_SI_DAYCARE
 APBO_SI_Daycare
 # USE CASE DIAGRAM
-![Usecasedaycare2 drawio](https://github.com/momocipaw/APBO_SI_DAYCARE/assets/167399698/60154931-78c7-46f3-9972-bcbfc27f5698)
+![Usecasedaycare2 drawio (1)](https://github.com/momocipaw/APBO_SI_DAYCARE/assets/167399698/82cedf3f-991b-468f-be49-884e56736bf5)
+
 Penjelasan : 
-
-• Mendaftarkan anak : Orang tua mengisi formulir pendaftaran, staff memverifikasi data, anak terdaftar di sistem.
-
-• Membayar Biaya : Orang tua memilih metode pembayaran, staff menerima pembayaran, administrasi memproses pembayaran, sistem mencatat transaksi.
-
-• Mengantar Anak : Orang tua mengantar anak, staff menerima anak, mencatat waktu kedatangan.
-
-• Menjemput Anak : Orang tua menjemput anak, staff menyerahkan anak, mencatat waktu penjemputan.
-
-• Orang tua melihat laporan perkembangan anak melalui sistem atau aplikasi.
-
-• Mengelola Data : Administrator menambahkan, mengedit, dan menghapus data anak, orang tua/wali, staff, jadwal, kehadiran, dan laporan.
-
-• Membuat Laporan : Administrator generate laporan kehadiran, perkembangan anak, dan keuangan.
-
+1. Anak
+   Anak adalah penerima utama layanan daycare. Meskipun anak tidak berinteraksi langsung dengan sistem, data dan aktivitas mereka di daycare dicatat dan diolah dalam sistem.
+2. Orang Tua
+   Peran: Orang tua atau wali mendaftarkan anak mereka ke daycare, mengakses laporan perkembangan anak, dan menerima informasi terkait anak mereka dari staf daycare.
+3. Staff
+      Staf daycare bertanggung jawab atas pengawasan dan perawatan anak-anak, mencatat kehadiran, dan mengelola aktivitas harian anak.
+4. Administrator
+   Admin sistem bertanggung jawab atas pengelolaan dan pemeliharaan sistem informasi daycare, termasuk manajemen data pengguna (anak, orang tua/wali, staf), serta memastikan sistem berjalan dengan lancar dan aman.
+   
 # CLASS DIAGRAM
 ![Classdiagram DayCare drawio](https://github.com/momocipaw/APBO_SI_DAYCARE/assets/167399698/5fe1b491-4121-46af-93fd-49c599a44e4a)
 
