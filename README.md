@@ -1,7 +1,7 @@
 # APBO_SI_DAYCARE
 APBO_SI_Daycare
 # USE CASE DIAGRAM
-![Usecasedaycare drawio](https://github.com/momocipaw/APBO_SI_DAYCARE/assets/167399698/2d158421-6710-47af-a3b5-c8931f860847)
+![Usecasedaycare2 drawio](https://github.com/momocipaw/APBO_SI_DAYCARE/assets/167399698/f7ad5292-5695-45e7-8d55-da35958a6573)
 
 Penjelasan : 
 
