@@ -3,7 +3,7 @@ APBO_SI_Daycare
 # USE CASE DIAGRAM
 ![Usecasedaycare2 drawio (1)](https://github.com/momocipaw/APBO_SI_DAYCARE/assets/167399698/82cedf3f-991b-468f-be49-884e56736bf5)
 
-Penjelasan : 
+*Penjelasan :*
 1. Anak adalah penerima utama layanan daycare. Meskipun anak tidak berinteraksi langsung dengan sistem, data dan aktivitas mereka di daycare dicatat dan diolah dalam sistem.
 2. Orang tua atau wali mendaftarkan anak mereka ke daycare, mengakses laporan perkembangan anak, dan menerima informasi terkait anak mereka dari staf daycare.
 3. Staff daycare bertanggung jawab atas pengawasan dan perawatan anak-anak, mencatat kehadiran, dan mengelola aktivitas harian anak.
@@ -33,3 +33,7 @@ Admin Sistem - Staf, Orang Tua, Anak: Admin sistem mengelola data pengguna terma
 
 # ERD (Entity Relationship Diagram)
 ![ERD2](https://github.com/momocipaw/APBO_SI_DAYCARE/assets/167399698/5c6a39d0-038d-451b-b4bf-bbaf3abed328)
+*NOTES*
+Primary Key ditandai dengan(*)
+
+Foreign key ditandai dengan(**)
