@@ -12,6 +12,7 @@ Penjelasan :
 # CLASS DIAGRAM
 ![classD drawio](https://github.com/momocipaw/APBO_SI_DAYCARE/assets/167399698/03f227d2-f3ee-4930-9e60-671e9009d7da)
 
+*NOTES*
 Primary Key ditandai dengan(*)
 
 Foreign key ditandai dengan(**)
