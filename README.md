@@ -14,10 +14,15 @@ Penjelasan :
 
 Hubungan Antar Kelas
 Orang Tua - Anak: Seorang orang tua/wali dapat memiliki satu atau lebih anak (1 to many).
+
 Anak - Kehadiran: Setiap anak memiliki catatan kehadiran setiap hari (1 to many).
+
 Anak - Jadwal: Setiap anak memiliki jadwal aktivitas harian (1 to many).
+
 Anak - Laporan: Setiap anak memiliki laporan perkembangan (1 to many).
+
 Staf - Anak: Staf daycare mengelola aktivitas, kehadiran, dan perkembangan anak (many to many).
+
 Admin Sistem - Staf, Orang Tua, Anak: Admin sistem mengelola data pengguna termasuk staf, orang tua, dan anak (many to many).
 
 # ERD (Entity Relationship Diagram)
